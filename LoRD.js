@@ -175,7 +175,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
    })
         }
         const replay = (teks) => {
-            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ᴍʀ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `ᶠᴼᴸᴸᴼᵂ ᴹᵞ ᴵᴺˢᵀᴬᴳᴿᴬᴹ`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/_munavir._?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
+            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ᴍʀ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `ꜰᴏʟʟᴏᴡ ᴏɴ ɪɴꜱᴛᴀɢʀᴀᴍ`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/_munavir._?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
         }
 	    
         // Group
@@ -421,10 +421,10 @@ Selama ${clockString(new Date - user.afkTime)}
     
     case 'sc': 
     case 'script':
-    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','ᴍᴇɴᴜ','369AubXZk','*──「\x20𝐌𝐑-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/MuNavir/MR-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🌝','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'ᴏᴡɴᴇʀ'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
+    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝙼𝚁-𝙼𝙳\x20」──*\x0a\x0a❑\x20http://github.com/Munavir/MR-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🔖','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
             break
 
-                case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'ɪɴꜱᴛᴀɢʀᴀᴍ','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'ᴡʜᴀᴛꜱᴀᴩᴩ','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*𝑻𝑯𝑨𝑵𝑲𝑺\x20𝑻𝑶\x20𝐀𝐋𝐋*\x0a\','https://wa.me/918590822912','http://instagram.com/_munavir._','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
+                case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'ɪɴꜱᴛᴀɢʀᴀᴍ','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'ᴡʜᴀᴛꜱᴀᴩᴩ','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*𝑩𝑰𝑮\x20𝑻𝑯𝑨𝑵𝑲𝑺\x20😊*','https://wa.me/918590822912','http://instagram.com/_munavir._','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
             break
 		case 'runtime': {
 
@@ -558,7 +558,7 @@ break
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
-let teks = `   〘 *👥 𝚃𝙰𝙶 𝙰𝙻𝙻🍻* 〙
+let teks = `   〘 *👥 𝑻𝒂𝒈 𝑨𝒍𝒍* 〙
  
  *Message : ${q ? q : 'empty'}*\n\n`
                 for (let mem of participants) {
@@ -861,52 +861,13 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'ᴡʜᴀᴛꜱᴀᴩᴩ',
-                                    url: 'http://wa.me/918590822912'
-                                }
-                            }, {
-                                urlButton: {
-                                    displayText: 'ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/_munavir._?igshid=YmMyMTA2M2Y='
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'ʙᴏᴛ ꜱᴛᴀᴛᴜꜱ',
-                                    id: 'ping'
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'ᴏᴡɴᴇʀ',
-                                    id: 'owner'
-                                }  
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'ꜱᴄʀɪᴩᴛ',
-                                    id: 'sc'
-                                }
-                            }]
-                      let txt = `「 𝙼𝚁-𝙼𝙳 𝙱𝚁𝙾𝙰𝙳𝙲𝙰𝚂𝚃🎈 」\n\n${text}`
-                      hisoka.send5ButImg(i, txt, hisoka.user.name, global.thumb, btn)
-                    }
-                m.reply(`Successfully Sending Broadcast To ${anu.length} Group`)
-            }
-            break
-            case 'bc': case 'broadcast': case 'bcall': {
-                if (!isCreator) throw mess.owner
-                if (!text) throw `Text mana?\n\nExample : ${prefix + command} fatih-san`
-                let anu = await store.chats.all().map(v => v.id)
-                m.reply(`Send Broadcast To ${anu.length} Chat\nTimes up ${anu.length * 1.5} second`)
-		for (let yoi of anu) {
-		    await sleep(1500)
-		    let btn = [{
-                                urlButton: {
                                     displayText: '𝑆𝑜𝑢𝑟𝑐𝑒 𝐶𝑜𝑑𝑒',
-                                    url: 'https://github.com/ '
+                                    url: 'https://github.com/Lord-official/MR-MD'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
-                                    url: 'https://instagram.com/_munavir._?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
@@ -924,7 +885,46 @@ break
                                     id: 'sc'
                                 }
                             }]
-                      let txt = `「 𝙼𝚁-𝙼𝙳 𝙱𝚁𝙾𝙰𝙳𝙲𝙰𝚂𝚃 」\n\n${text}`
+                      let txt = `「 Broadcast Bot 」\n\n${text}`
+                      hisoka.send5ButImg(i, txt, hisoka.user.name, global.thumb, btn)
+                    }
+                m.reply(`Successfully Sending Broadcast To ${anu.length} Group`)
+            }
+            break
+            case 'bc': case 'broadcast': case 'bcall': {
+                if (!isCreator) throw mess.owner
+                if (!text) throw `Text mana?\n\nExample : ${prefix + command} fatih-san`
+                let anu = await store.chats.all().map(v => v.id)
+                m.reply(`Send Broadcast To ${anu.length} Chat\nTimes up ${anu.length * 1.5} second`)
+		for (let yoi of anu) {
+		    await sleep(1500)
+		    let btn = [{
+                                urlButton: {
+                                    displayText: '𝑆𝑜𝑢𝑟𝑐𝑒 𝐶𝑜𝑑𝑒',
+                                    url: 'https://github.com/Lord-official/MR-MD '
+                                }
+                            }, {
+                                urlButton: {
+                                    displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
+                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: '𝐵𝑜𝑡 𝑆𝑡𝑎𝑡𝑢𝑠',
+                                    id: 'ping'
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: '𝑂𝑤𝑛𝑒𝑟',
+                                    id: 'owner'
+                                }  
+                            }, {
+                                quickReplyButton: {
+                                    displayText: '𝑆𝑐𝑟𝑖𝑝𝑡',
+                                    id: 'sc'
+                                }
+                            }]
+                      let txt = `「 Broadcast Bot 」\n\n${text}`
                       hisoka.send5ButImg(yoi, txt, hisoka.user.name, global.thumb, btn)
 		}
 		m.reply('𝐵𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡 𝑆𝑢𝑐𝑐𝑒𝑠𝑠')
@@ -1182,7 +1182,7 @@ key: {
  text: text}}, { messageId: m.id })
 }
          break
-        case 'play': const _0x2d1f60=_0x5389;(function(_0x15958b,_0x48287d){const _0x4934d6=_0x5389,_0x33c561=_0x15958b();while(!![]){try{const _0x38def3=-parseInt(_0x4934d6(0x15a))/0x1+-parseInt(_0x4934d6(0x153))/0x2+-parseInt(_0x4934d6(0x14e))/0x3*(-parseInt(_0x4934d6(0x154))/0x4)+-parseInt(_0x4934d6(0x156))/0x5+parseInt(_0x4934d6(0x160))/0x6+-parseInt(_0x4934d6(0x14a))/0x7*(-parseInt(_0x4934d6(0x15c))/0x8)+parseInt(_0x4934d6(0x148))/0x9;if(_0x38def3===_0x48287d)break;else _0x33c561['push'](_0x33c561['shift']());}catch(_0x56c667){_0x33c561['push'](_0x33c561['shift']());}}}(_0x559c,0xd7132));function _0x559c(){const _0x2d6c81=['Example\x20:\x20play\x20Heatwaves','3323169hmtpkt','length','931jMRDuc','yt-search','chat','title','1083jNSQWt','yta\x20','Duration\x20','Matching\x20Songs...','fromObject','876974unEPPy','9008LGOfyr','key','3547200LMhRBd','MR-BOT','text','Select\x20song','290069ibUjjn','quoted','59000tQBAPW','message','push','Message','935124yDZkAw'];_0x559c=function(){return _0x2d6c81;};return _0x559c();}function _0x5389(_0x2a2b03,_0x502726){const _0x559cc1=_0x559c();return _0x5389=function(_0x53899d,_0x525fab){_0x53899d=_0x53899d-0x148;let _0x5f127b=_0x559cc1[_0x53899d];return _0x5f127b;},_0x5389(_0x2a2b03,_0x502726);}{let yts=require(_0x2d1f60(0x14b)),datai=[],teks=text?text:m[_0x2d1f60(0x15b)]&&m['quoted'][_0x2d1f60(0x158)];if(!teks)throw _0x2d1f60(0x161);let search=await yts(teks),hdata=search['all'];for(let i=0xb;i<hdata[_0x2d1f60(0x149)];i++){datai[_0x2d1f60(0x15e)]({'rows':[{'title':''+hdata[i][_0x2d1f60(0x14d)],'description':'','rowId':_0x2d1f60(0x14f)+hdata[i]['url']}],'title':_0x2d1f60(0x150)+hdata[i]['timestamp']+'\x20(\x20'+hdata[i]['ago']+'\x20)'});}let template=await generateWAMessageFromContent(m[_0x2d1f60(0x14c)],proto[_0x2d1f60(0x15f)][_0x2d1f60(0x152)]({'listMessage':{'title':_0x2d1f60(0x151),'description':_0x2d1f60(0x159),'buttonText':'Select','footerText':_0x2d1f60(0x157),'listType':'SINGLE_SELECT','sections':datai,'listType':0x1}}),{});hisoka['relayMessage'](m[_0x2d1f60(0x14c)],template[_0x2d1f60(0x15d)],{'messageId':template[_0x2d1f60(0x155)]['id']});}
+        case 'play': const _0x2d1f60=_0x5389;(function(_0x15958b,_0x48287d){const _0x4934d6=_0x5389,_0x33c561=_0x15958b();while(!![]){try{const _0x38def3=-parseInt(_0x4934d6(0x15a))/0x1+-parseInt(_0x4934d6(0x153))/0x2+-parseInt(_0x4934d6(0x14e))/0x3*(-parseInt(_0x4934d6(0x154))/0x4)+-parseInt(_0x4934d6(0x156))/0x5+parseInt(_0x4934d6(0x160))/0x6+-parseInt(_0x4934d6(0x14a))/0x7*(-parseInt(_0x4934d6(0x15c))/0x8)+parseInt(_0x4934d6(0x148))/0x9;if(_0x38def3===_0x48287d)break;else _0x33c561['push'](_0x33c561['shift']());}catch(_0x56c667){_0x33c561['push'](_0x33c561['shift']());}}}(_0x559c,0xd7132));function _0x559c(){const _0x2d6c81=['Example\x20:\x20play\x20Heatwaves','3323169hmtpkt','length','931jMRDuc','yt-search','chat','title','1083jNSQWt','yta\x20','Duration\x20','Matching\x20Songs...','fromObject','876974unEPPy','9008LGOfyr','key','3547200LMhRBd','LoRD','text','Select\x20song','290069ibUjjn','quoted','59000tQBAPW','message','push','Message','935124yDZkAw'];_0x559c=function(){return _0x2d6c81;};return _0x559c();}function _0x5389(_0x2a2b03,_0x502726){const _0x559cc1=_0x559c();return _0x5389=function(_0x53899d,_0x525fab){_0x53899d=_0x53899d-0x148;let _0x5f127b=_0x559cc1[_0x53899d];return _0x5f127b;},_0x5389(_0x2a2b03,_0x502726);}{let yts=require(_0x2d1f60(0x14b)),datai=[],teks=text?text:m[_0x2d1f60(0x15b)]&&m['quoted'][_0x2d1f60(0x158)];if(!teks)throw _0x2d1f60(0x161);let search=await yts(teks),hdata=search['all'];for(let i=0xb;i<hdata[_0x2d1f60(0x149)];i++){datai[_0x2d1f60(0x15e)]({'rows':[{'title':''+hdata[i][_0x2d1f60(0x14d)],'description':'','rowId':_0x2d1f60(0x14f)+hdata[i]['url']}],'title':_0x2d1f60(0x150)+hdata[i]['timestamp']+'\x20(\x20'+hdata[i]['ago']+'\x20)'});}let template=await generateWAMessageFromContent(m[_0x2d1f60(0x14c)],proto[_0x2d1f60(0x15f)][_0x2d1f60(0x152)]({'listMessage':{'title':_0x2d1f60(0x151),'description':_0x2d1f60(0x159),'buttonText':'Select','footerText':_0x2d1f60(0x157),'listType':'SINGLE_SELECT','sections':datai,'listType':0x1}}),{});hisoka['relayMessage'](m[_0x2d1f60(0x14c)],template[_0x2d1f60(0x15d)],{'messageId':template[_0x2d1f60(0x155)]['id']});}
             break
                 
 	   case 'ytmp3': case 'ytaudio': case 'yta': {
@@ -1582,8 +1582,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 case 'menulist':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `𝑯𝒊 ${pushname} \n𝚂𝚎𝚕𝚎𝚌𝚝 𝚖𝚎𝚗𝚞`,
-                    description: `🐦`,
+                    title: `𝑯𝒊 ${pushname} \n𝑻𝒉𝒊𝒔 𝑰𝒔 𝒎𝒆𝒏𝒖`,
+                    description: `👻`,
                     buttonText: "Menu",
                     footerText: "MR-MD",
                     listType: "SINGLE_SELECT",
@@ -1787,11 +1787,9 @@ break
 
           case 'menu': case 'help': case '?': {
                 anu = `
-     𝙼𝚁-𝙼𝙳
+     𝑴𝑹-𝑴𝑫 
  
 🎈 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 0.0.1
-
-🎈 𝙾𝚆𝙽𝙴𝚁: ī.am/ꪶᴍᴜɴᴀᴠɪʀ☆
 
 🎈 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: Baileys-MD
 
@@ -1809,7 +1807,7 @@ break
                             }, {
                                 urlButton: {
                                     displayText: 'ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/_munavir._?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1823,8 +1821,8 @@ break
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'ꜱᴄʀɪᴩᴛ',
-                                    id: 'sc'
+                                    displayText: 'ᴄʀᴇᴅɪᴛ',
+                                    id: 'hehe'
                                 }
                             }]
           
