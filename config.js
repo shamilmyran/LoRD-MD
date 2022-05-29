@@ -18,27 +18,27 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '«ᴍᴜɴᴀᴠɪʀ🇮'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKL'
 global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y='
-global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
+global.linkyt = 'https://youtu.be/loTpfSez1g4'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
-global.linkgh = 'https://github.com/Lord-official'
+global.linkgh = 'https://github.com/'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'MUNAVIR'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
+global.watermark = '𝙼𝚁-𝙼𝙳🍻'
+global.owner = ['918590822912']
+global.premium = ['918590822912']
+global.packname = '𝙼𝚁-𝙼𝙳'
+global.author = 'ī.am/ꪶᴍᴜɴᴀᴠɪʀ☆'
 global.sessionName = 'lord'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
@@ -50,7 +50,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'Bot Number Users Special Feature',
-    wait: 'Loading...',
+    wait: 'ᴡᴀɪᴛ ᴀ ꜱᴇᴄᴏɴᴅ..',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
