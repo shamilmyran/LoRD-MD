@@ -1582,7 +1582,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 case 'menulist':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `𝑯𝒊 ${pushname} \n𝑻𝒉𝒊𝒔 𝑰𝒔 𝒎𝒆𝒏𝒖`,
+                    title: `𝙷𝙴𝙻𝙻𝙾 ${pushname} \n𝚃𝙷𝙸𝚂 𝙸𝚂 𝙼𝙴𝙽𝚄`,
                     description: `👻`,
                     buttonText: "Menu",
                     footerText: "MR-MD",
@@ -1821,7 +1821,7 @@ break
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'ᴄʀᴇᴅɪᴛ',
+                                    displayText: 'ᴍʀ-ᴍᴅ',
                                     id: 'hehe'
                                 }
                             }]
